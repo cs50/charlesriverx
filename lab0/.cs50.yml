@@ -5,4 +5,5 @@ lab50:
   window:
   - browser
   - editor
+  - readme
   - terminal
