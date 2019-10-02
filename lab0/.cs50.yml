@@ -2,4 +2,7 @@ lab50:
   files:
   - !exclude "*"
   - !include "hello.html"
-
+  window:
+  - browser
+  - editor
+  - terminal
